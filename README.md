@@ -14,12 +14,7 @@ This repository is for my very own portfolio made with React. In this portfolio 
 
 The following image shows the web application's appearance
 
-![The screenshot shows the portfolio site displaying, it is currently on the projects tab and is displaying multiple projects](<images/ReactPortfolioScreenshot.png)
-
-## Table of Contents
-
-1. [License](#license)
-2. [Questions](#questions)
+![The screenshot shows the portfolio site displaying, it is currently on the projects tab and is displaying multiple projects](images/ReactPortfolioScreenshot.png)
 
 ## License
 

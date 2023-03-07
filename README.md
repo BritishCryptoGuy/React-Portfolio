@@ -35,5 +35,6 @@ The link to the website is:
 In order to reach out for questions and feedback please use the following:
 
 Github link: [BritishCryptoGuy](https://github.com/BritishCryptoGuy)
+Resume link: [Resume](https://docs.google.com/document/d/11whHWES63WwTastXr4Rp6LfrGu3tLgujjfrEpd2smMs/edit?usp=sharing)
 
 Email adress: Kieran_parkinson@hotmail.com

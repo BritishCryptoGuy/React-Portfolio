@@ -8,6 +8,8 @@
 
 This repository is for my very own portfolio made with React. In this portfolio i have a brief description on me where i cover the skills i have attained. Also there is a projects page and Contact page. The projects page shows some of the projects i have worked on and can display some info about them. The Contact tab can be used to get in touch with me.
 
+The technologies used to build this are: HTML, CSS, JavaScript, React, npm, Git
+
 ---
 
 ### Screenshot of completed site
